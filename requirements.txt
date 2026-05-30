@@ -1,4 +1,12 @@
 Flask
 Flask-SQLAlchemy
-flasgger
 PyJWT
+Werkzeug
+Authlib
+flasgger
+flask-smorest
+marshmallow
+gunicorn
+requests
+razorpay
+google-generativeai
